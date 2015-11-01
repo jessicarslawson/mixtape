@@ -51,8 +51,8 @@ body {
 
 .grid figure,
 .grid .placeholder {
-	width: 340px;
-	height: 300px;
+	width: 31%;
+	/*height: 300px;*/
 }
 
 .grid figure {
@@ -279,9 +279,9 @@ p.dummy-text:nth-child(3) {
 	text-align: left;
 	margin: 0 auto;
 	padding: 10px 0;
-	color: #ddd;
+	color: brown;
 	font-size: 1em;
-	font-family: 'Blokk', Arial, serif;
+	font-family: Arial, serif;
 }
 
 .dummy-text:last-child {
